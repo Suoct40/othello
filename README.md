@@ -14,7 +14,7 @@
 # 駒を配置する
  全てのゲームモードで利用が可能だが、_nomal_ の場合置ける場所に目印がつかない
  click __left__ button
-https://user-images.githubusercontent.com/103062031/163702783-40a45a2b-3eee-4a97-a04c-8df6f4e984df.mp4
+![verw](https://user-images.githubusercontent.com/103062031/163702783-40a45a2b-3eee-4a97-a04c-8df6f4e984df.mp4)
 
 # 一手前に戻る
  ゲームモードが _easy_ 若しくは _joke_ の場合のみ利用可能
