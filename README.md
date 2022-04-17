@@ -7,13 +7,14 @@
 ~~~py
          self.game_mode : str  = 'joke'  # 'normal', 'easy', 'joke'
 ~~~
- の　__self.game_mode__ を以下の文字列に置換 'normal', 'easy', 'joke'
+ の　__self.game_mode__ をの内容を以下の文字列に置換 'normal', 'easy', 'joke'
 
 ## 操作方法
 
 ### 駒を配置する
  全てのゲームモードで利用が可能だが、_nomal_ の場合置ける場所に目印がつかない
  click __left__ button
+
 https://user-images.githubusercontent.com/103062031/163702783-40a45a2b-3eee-4a97-a04c-8df6f4e984df.mp4
 
 ### 一手前に戻る
