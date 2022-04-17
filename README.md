@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/103062031/163702847-ff510981-a0dd-4fea
  click __right__ button
 https://user-images.githubusercontent.com/103062031/163703453-7a0a3a73-ce72-44e6-a037-8be4b5258252.mp4
 
-# continue
+### コンティニュー
  ゲームが終了した際に実行可能
 https://user-images.githubusercontent.com/103062031/163703503-6ad23e0a-53c1-42e8-a64c-23a201e11aac.mp4
 
